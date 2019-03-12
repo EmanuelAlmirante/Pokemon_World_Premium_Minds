@@ -11,9 +11,9 @@ import static org.junit.Assert.assertEquals;
 @RunWith(Parameterized.class)
 public class PokemonWorldPremiumMindsTest {
 
-    private String input;
-    private long expected;
-    private PokemonWorldPremiumMinds pokemonWorldPremiumMinds;
+    public String input;
+    public long expected;
+    public PokemonWorldPremiumMinds pokemonWorldPremiumMinds;
 
     @Before
     public void initialize() {

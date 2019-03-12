@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="PokemonWorldPremiumMindsTest" time="0.051" tests="9" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="gnome"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/home/emanuel/Desktop/Personal Projects/Pokemon-World-Premium-Minds/target/test-classes:/home/emanuel/Desktop/Personal Projects/Pokemon-World-Premium-Minds/target/classes:/home/emanuel/.m2/repository/junit/junit/4.13-beta-2/junit-4.13-beta-2.jar:/home/emanuel/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Linux"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-oracle/lib"/>
+    <property name="sun.java.command" value="/home/emanuel/Desktop/Personal Projects/Pokemon-World-Premium-Minds/target/surefire/surefirebooter1228288543439643262.jar /home/emanuel/Desktop/Personal Projects/Pokemon-World-Premium-Minds/target/surefire 2019-03-12T22-42-11_282-jvmRun1 surefire14251083340380729196tmp surefire_016907578580870962078tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/home/emanuel/Desktop/Personal Projects/Pokemon-World-Premium-Minds/target/test-classes:/home/emanuel/Desktop/Personal Projects/Pokemon-World-Premium-Minds/target/classes:/home/emanuel/.m2/repository/junit/junit/4.13-beta-2/junit-4.13-beta-2.jar:/home/emanuel/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/home/emanuel"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2018-10-16"/>
+    <property name="java.home" value="/usr/lib/jvm/java-11-oracle"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/home/emanuel/Desktop/Personal Projects/Pokemon-World-Premium-Minds"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="/home/emanuel/Desktop/Personal Projects/Pokemon-World-Premium-Minds/target/surefire/surefirebooter1228288543439643262.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.2+7-LTS"/>
+    <property name="user.name" value="emanuel"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="4.15.0-42-generic"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="/home/emanuel/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="java.version" value="11.0.2"/>
+    <property name="user.dir" value="/home/emanuel/Desktop/Personal Projects/Pokemon-World-Premium-Minds"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.2+7-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="test[0: Input(E) = 2 pokemon(s) apanhado(s)]" classname="PokemonWorldPremiumMindsTest" time="0.004"/>
+  <testcase name="test[1: Input(NESO) = 4 pokemon(s) apanhado(s)]" classname="PokemonWorldPremiumMindsTest" time="0"/>
+  <testcase name="test[2: Input(NSNSNSNSNS) = 2 pokemon(s) apanhado(s)]" classname="PokemonWorldPremiumMindsTest" time="0.001"/>
+  <testcase name="test[3: Input(nos) = 4 pokemon(s) apanhado(s)]" classname="PokemonWorldPremiumMindsTest" time="0"/>
+  <testcase name="test[4: Input(QWERTYUIOPASDFGHJKLÇZXCVBNM) = 3 pokemon(s) apanhado(s)]" classname="PokemonWorldPremiumMindsTest" time="0"/>
+  <testcase name="test[5: Input(qwrtyuipadfghjklçzxcvbm) = 1 pokemon(s) apanhado(s)]" classname="PokemonWorldPremiumMindsTest" time="0.001"/>
+  <testcase name="test[6: Input(eeeeeeeeeeeeeeeeeeeee) = 22 pokemon(s) apanhado(s)]" classname="PokemonWorldPremiumMindsTest" time="0.001"/>
+  <testcase name="test[7: Input() = 1 pokemon(s) apanhado(s)]" classname="PokemonWorldPremiumMindsTest" time="0"/>
+  <testcase name="test[8: Input(nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn) = 101 pokemon(s) apanhado(s)]" classname="PokemonWorldPremiumMindsTest" time="0"/>
+</testsuite>
