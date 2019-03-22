@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="PokemonWorldPremiumMindsTest" time="0.051" tests="9" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="PokemonWorldPremiumMindsTest" time="0.066" tests="9" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="gnome"/>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-oracle/lib"/>
-    <property name="sun.java.command" value="/home/emanuel/Desktop/Personal Projects/Pokemon-World-Premium-Minds/target/surefire/surefirebooter3310442489527673483.jar /home/emanuel/Desktop/Personal Projects/Pokemon-World-Premium-Minds/target/surefire 2019-03-13T21-05-53_247-jvmRun1 surefire16532403671469432677tmp surefire_018177173846094895714tmp"/>
+    <property name="sun.java.command" value="/home/emanuel/Desktop/Personal Projects/Pokemon-World-Premium-Minds/target/surefire/surefirebooter13226360265693819011.jar /home/emanuel/Desktop/Personal Projects/Pokemon-World-Premium-Minds/target/surefire 2019-03-22T01-43-45_324-jvmRun1 surefire9902833000367414060tmp surefire_0303572583761937686tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/emanuel/Desktop/Personal Projects/Pokemon-World-Premium-Minds/target/test-classes:/home/emanuel/Desktop/Personal Projects/Pokemon-World-Premium-Minds/target/classes:/home/emanuel/.m2/repository/junit/junit/4.13-beta-2/junit-4.13-beta-2.jar:/home/emanuel/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -32,7 +32,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/emanuel/Desktop/Personal Projects/Pokemon-World-Premium-Minds/target/surefire/surefirebooter3310442489527673483.jar"/>
+    <property name="surefire.real.class.path" value="/home/emanuel/Desktop/Personal Projects/Pokemon-World-Premium-Minds/target/surefire/surefirebooter13226360265693819011.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.2+7-LTS"/>
     <property name="user.name" value="emanuel"/>
@@ -58,13 +58,13 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="test[0: Input(E) = 2 pokemon(s) apanhado(s)]" classname="PokemonWorldPremiumMindsTest" time="0.004"/>
+  <testcase name="test[0: Input(E) = 2 pokemon(s) apanhado(s)]" classname="PokemonWorldPremiumMindsTest" time="0.005"/>
   <testcase name="test[1: Input(NESO) = 4 pokemon(s) apanhado(s)]" classname="PokemonWorldPremiumMindsTest" time="0"/>
   <testcase name="test[2: Input(NSNSNSNSNS) = 2 pokemon(s) apanhado(s)]" classname="PokemonWorldPremiumMindsTest" time="0.001"/>
   <testcase name="test[3: Input(nos) = 4 pokemon(s) apanhado(s)]" classname="PokemonWorldPremiumMindsTest" time="0"/>
-  <testcase name="test[4: Input(QWERTYUIOPASDFGHJKLÇZXCVBNM) = 3 pokemon(s) apanhado(s)]" classname="PokemonWorldPremiumMindsTest" time="0"/>
-  <testcase name="test[5: Input(qwrtyuipadfghjklçzxcvbm) = 1 pokemon(s) apanhado(s)]" classname="PokemonWorldPremiumMindsTest" time="0.001"/>
+  <testcase name="test[4: Input(QWERTYUIOPASDFGHJKLÇZXCVBNM) = 3 pokemon(s) apanhado(s)]" classname="PokemonWorldPremiumMindsTest" time="0.001"/>
+  <testcase name="test[5: Input(qwrtyuipadfghjklçzxcvbm) = 1 pokemon(s) apanhado(s)]" classname="PokemonWorldPremiumMindsTest" time="0"/>
   <testcase name="test[6: Input(eeeeeeeeeeeeeeeeeeeee) = 22 pokemon(s) apanhado(s)]" classname="PokemonWorldPremiumMindsTest" time="0"/>
   <testcase name="test[7: Input() = 1 pokemon(s) apanhado(s)]" classname="PokemonWorldPremiumMindsTest" time="0"/>
-  <testcase name="test[8: Input(nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn) = 101 pokemon(s) apanhado(s)]" classname="PokemonWorldPremiumMindsTest" time="0.001"/>
+  <testcase name="test[8: Input(nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn) = 101 pokemon(s) apanhado(s)]" classname="PokemonWorldPremiumMindsTest" time="0"/>
 </testsuite>
